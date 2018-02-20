@@ -1,0 +1,62 @@
+#buscador {
+	text-align:center;
+	margin:30px;
+}
+.usuario {
+	float:right;
+	margin-right:40px;
+}
+.usuario a {
+	color:#0075a1;
+}
+#buscador input {
+	padding:10px 20px;
+	border-radius:5px;
+	border:1px solid #ccc;
+	width:300px;
+}
+.tablaNoticias {
+	text-align:center;
+	margin:0 auto;
+	width:100%;
+}
+.tablaNoticias th {
+	border-bottom:3px solid #d94a38;
+	padding:0 10px;
+}
+.tablaNoticias td {
+	border-bottom:1px solid #ccc;
+	padding:10px 0 0 0;
+}
+.tablaNoticias tr:nth-child(even) { background: #ddd }
+.tablaNoticias tr:nth-child(odd) { background: #fff}
+#principal {
+	width:300px;
+	margin:0 auto;
+}
+#login {
+	margin-top:50px;
+}
+label {
+	display:block;
+	text-align:right;
+	margin-right:30px;
+	font-weight:bold;
+}
+input[type="submit"] {
+	background:#0075a1;
+	color:#fff;
+	border:none;
+	width:180px;
+	padding:10px;
+	font-weight:bold;
+	cursor:pointer;
+}
+fieldset, input {
+	border:1px solid #ccc;
+	border-radius:3px;
+	padding:5px 10px;
+}
+legend {
+	font-size:20px;
+}
