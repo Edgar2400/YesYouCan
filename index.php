@@ -113,7 +113,7 @@
 
 <center>
 <video width="75%" controls autoplay="">
-  <source src="../videos/LaResolana(SanRafael).mp4" type="video/mp4">
+  <source src="videos/0LaResolanaSanRafael.mp4" type="video/mp4">
 </video>
  </center>
 

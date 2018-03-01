@@ -27,7 +27,7 @@ echo '
 								</ul>
 							</li>
 							<li><a href="transparencia.php">Transparencia</a></li>
-							<li><a href="noticias.php">Noticias</a></li>
+							<li><a href="noti.php">Noticias</a></li>
 							<li class="active"><a href="">Tramites y Servicios</a></li>
 							<li><a href="galeria.php">Galería</a></li>
 							<li class="dropdown">
