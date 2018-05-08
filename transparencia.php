@@ -32,831 +32,7 @@ td, th {
 }
 </style>
 
-<script type="text/javascript">
-	clic=1;
-	function mostrar() {
-    if(clic==1){
-     div = document.getElementById('flotante');
-            div.style.display = '';
-   clic = clic + 1;
-   } else{
-        div = document.getElementById('flotante');
-            div.style.display = 'none';
-    clic = 1;
-   }
-        }
-	clic1=1;
-	function mostrar1() {
-	if(clic1==1){
-	div = document.getElementById('flotante1');
-	       div.style.display = '';
-	clic1 = clic1 + 1;
-	} else{
-	   div = document.getElementById('flotante1');
-	       div.style.display = 'none';
-	clic1 = 1;
-	}
-		}
-	clic2=1;
-	   function mostrar2() {
-	  if(clic2==1){
-	   div = document.getElementById('flotante2');
-	          div.style.display = '';
-	 clic2 = clic2 + 1;
-	 } else{
-	      div = document.getElementById('flotante2');
-	          div.style.display = 'none';
-	  clic2= 1;
-	 }
-	      }
-	clic3=1;
-	   function mostrar3() {
-	  if(clic3==1){
-	   div = document.getElementById('flotante3');
-	          div.style.display = '';
-	 clic3 = clic3 + 1;
-	 } else{
-	      div = document.getElementById('flotante3');
-	          div.style.display = 'none';
-	  clic3= 1;
-	 }
-	      }
-	clic4=1;
-	   function mostrar4() {
-	  if(clic4==1){
-	   div = document.getElementById('flotante4');
-	          div.style.display = '';
-	 clic4 = clic4 + 1;
-	 } else{
-	      div = document.getElementById('flotante4');
-	          div.style.display = 'none';
-	  clic4= 1;
-	 }
-	      }
-	clic2=1;
-	   function mostrar5() {
-	  if(clic2==1){
-	   div = document.getElementById('flotante5');
-	          div.style.display = '';
-	 clic5 = clic5 + 1;
-	 } else{
-	      div = document.getElementById('flotante5');
-	          div.style.display = 'none';
-	  clic5= 1;
-	 }
-	      }
-	clic6=1;
-	   function mostrar6() {
-	  if(clic6==1){
-	   div = document.getElementById('flotante6');
-	          div.style.display = '';
-	 clic6 = clic6 + 1;
-	 } else{
-	      div = document.getElementById('flotante6');
-	          div.style.display = 'none';
-	  clic6= 1;
-	 }
-	      }
-	clic7=1;
-	   function mostrar7() {
-	  if(clic7==1){
-	   div = document.getElementById('flotante7');
-	          div.style.display = '';
-	 clic7 = clic7 + 1;
-	 } else{
-	      div = document.getElementById('flotante7');
-	          div.style.display = 'none';
-	  clic7= 1;
-	 }
-	      }
-	clic8=1;
-	   function mostrar8() {
-	  if(clic8==1){
-	   div = document.getElementById('flotante8');
-	          div.style.display = '';
-	 clic8 = clic8 + 1;
-	 } else{
-	      div = document.getElementById('flotante8');
-	          div.style.display = 'none';
-	  clic8= 1;
-	 }
-	      }
-	clic9=1;
-	   function mostrar9() {
-	  if(clic9==1){
-	   div = document.getElementById('flotante9');
-	          div.style.display = '';
-	 clic9 = clic9 + 1;
-	 } else{
-	      div = document.getElementById('flotante9');
-	          div.style.display = 'none';
-	  clic9= 1;
-	 }
-	      }
-	clic10=1;
-	    function mostrar10() {
-	   if(clic10==1){
-	    div = document.getElementById('flotante10');
-	          div.style.display = '';
-	  clic10 = clic10 + 1;
-	  } else{
-	       div = document.getElementById('flotante10');
-	           div.style.display = 'none';
-	   clic10= 1;
-	  }
-	       }
-	clic11=1;
-	   function mostrar11() {
-	  if(clic11==1){
-	   div = document.getElementById('flotante11');
-	         div.style.display = '';
-	 clic11 = clic11 + 1;
-	 } else{
-	      div = document.getElementById('flotante11');
-	          div.style.display = 'none';
-	  clic11= 1;
-	 }
-	      }
-	clic12=1;
-	  function mostrar12() {
-	 if(clic12==1){
-	  div = document.getElementById('flotante12');
-	        div.style.display = '';
-	clic12 = clic12 + 1;
-	} else{
-	     div = document.getElementById('flotante12');
-	         div.style.display = 'none';
-	 clic12= 1;
-	}
-	     }
-	clic13=1;
-	 function mostrar13() {
-	if(clic13==1){
-	 div = document.getElementById('flotante13');
-	       div.style.display = '';
-	clic13 = clic13 + 1;
-	} else{
-	    div = document.getElementById('flotante13');
-	        div.style.display = 'none';
-	clic13= 1;
-	}
-	    }
-	clic14=1;
-	function mostrar14() {
-	if(clic14==1){
-	div = document.getElementById('flotante14');
-	      div.style.display = '';
-	clic14 = clic14 + 1;
-	} else{
-	   div = document.getElementById('flotante14');
-	       div.style.display = 'none';
-	clic14= 1;
-	}
-	   }
-	clic15=1;
-	function mostrar15() {
-	if(clic15==1){
-	div = document.getElementById('flotante15');
-	     div.style.display = '';
-	clic15 = clic15 + 1;
-	} else{
-	  div = document.getElementById('flotante15');
-	      div.style.display = 'none';
-	clic15= 1;
-	}
-	  }
-	clic16=1;
-	function mostrar16() {
-	if(clic16==1){
-	div = document.getElementById('flotante16');
-			 div.style.display = '';
-	clic16 = clic16 + 1;
-	} else{
-		div = document.getElementById('flotante16');
-				div.style.display = 'none';
-	clic16= 1;
-	}
-		}
-	clic17=1;
-	function mostrar17() {
-	if(clic17==1){
-	div = document.getElementById('flotante17');
-			 div.style.display = '';
-	clic17 = clic17 + 1;
-	} else{
-		div = document.getElementById('flotante17');
-				div.style.display = 'none';
-	clic17= 1;
-	}
-		}
-	clic18=1;
-	function mostrar18() {
-	if(clic18==1){
-	div = document.getElementById('flotante18');
-			 div.style.display = '';
-	clic18 = clic18 + 1;
-	} else{
-		div = document.getElementById('flotante18');
-				div.style.display = 'none';
-	clic18= 1;
-	}
-		}
-	clic19=1;
-	function mostrar19() {
-	if(clic19==1){
-	div = document.getElementById('flotante19');
-			 div.style.display = '';
-	clic19 = clic19 + 1;
-	} else{
-		div = document.getElementById('flotante19');
-				div.style.display = 'none';
-	clic19= 1;
-	}
-		}
-	clic20=1;
-	function mostrar20() {
-	if(clic20==1){
-	div = document.getElementById('flotante20');
-			 div.style.display = '';
-	clic20 = clic20 + 1;
-	} else{
-		div = document.getElementById('flotante20');
-				div.style.display = 'none';
-	clic20= 1;
-	}
-		}
-	clic21=1;
-	function mostrar21() {
-	if(clic21==1){
-	div = document.getElementById('flotante21');
-			 div.style.display = '';
-	clic21 = clic21 + 1;
-	} else{
-		div = document.getElementById('flotante21');
-				div.style.display = 'none';
-	clic21= 1;
-	}
-		}
-
-	clic22=1;
-	function mostrar22() {
-	if(clic22==1){
-	div = document.getElementById('flotante22');
-			 div.style.display = '';
-	clic22 = clic22 + 1;
-	} else{
-		div = document.getElementById('flotante22');
-				div.style.display = 'none';
-	clic22= 1;
-	}
-		}
-
-	clic23=1;
-	function mostrar23() {
-	if(clic23==1){
-	div = document.getElementById('flotante23');
-			 div.style.display = '';
-	clic23 = clic23 + 1;
-	} else{
-		div = document.getElementById('flotante23');
-				div.style.display = 'none';
-	clic23= 1;
-	}
-		}
-
-	clic24=1;
-	function mostrar24() {
-	if(clic24==1){
-	div = document.getElementById('flotante24');
-			 div.style.display = '';
-	clic24 = clic24 + 1;
-	} else{
-		div = document.getElementById('flotante24');
-				div.style.display = 'none';
-	clic24= 1;
-	}
-		}
-
-  clic25=1;
-	function mostrar25() {
-	if(clic25==1){
-	div = document.getElementById('flotante25');
-			 div.style.display = '';
-	clic25 = clic25 + 1;
-	} else{
-		div = document.getElementById('flotante25');
-				div.style.display = 'none';
-	clic25= 1;
-	}
-		}
-
-	clic26=1;
-	function mostrar26() {
-	if(clic26==1){
-	div = document.getElementById('flotante26');
-			 div.style.display = '';
-	clic26 = clic26 + 1;
-	} else{
-		div = document.getElementById('flotante26');
-				div.style.display = 'none';
-	clic26= 1;
-	}
-		}
-
-	clic27=1;
-	function mostrar27() {
-	if(clic27==1){
-	div = document.getElementById('flotante27');
-			 div.style.display = '';
-	clic27 = clic27 + 1;
-	} else{
-		div = document.getElementById('flotante27');
-				div.style.display = 'none';
-	clic27= 1;
-	}
-		}
-
-	clic28=1;
-	function mostrar28() {
-	if(clic28==1){
-	div = document.getElementById('flotante28');
-			 div.style.display = '';
-	clic28 = clic28 + 1;
-	} else{
-		div = document.getElementById('flotante28');
-				div.style.display = 'none';
-	clic28= 1;
-	}
-		}
-
-	clic29=1;
-	function mostrar29() {
-	if(clic29==1){
-	div = document.getElementById('flotante29');
-			 div.style.display = '';
-	clic29 = clic29 + 1;
-	} else{
-		div = document.getElementById('flotante29');
-			div.style.display = 'none';
-	clic29= 1;
-	}
-		}
-
-	clic30=1;
-	function mostrar30() {
-	if(clic30==1){
-	div = document.getElementById('flotante30');
-			 div.style.display = '';
-	clic30 = clic30 + 1;
-	} else{
-		div = document.getElementById('flotante30');
-			div.style.display = 'none';
-	clic30= 1;
-	}
-		}
-
-	clic31=1;
-	function mostrar31() {
-	if(clic31==1){
-	div = document.getElementById('flotante31');
-			 div.style.display = '';
-	clic31 = clic31 + 1;
-	} else{
-		div = document.getElementById('flotante31');
-			div.style.display = 'none';
-	clic31= 1;
-	}
-		}
-
-	clic32=1;
-	function mostrar32() {
-	if(clic32==1){
-	div = document.getElementById('flotante32');
-			 div.style.display = '';
-	clic32 = clic32 + 1;
-	} else{
-		div = document.getElementById('flotante32');
-			div.style.display = 'none';
-	clic32= 1;
-	}
-		}
-
-	clic33=1;
-	function mostrar33() {
-	if(clic33==1){
-	div = document.getElementById('flotante33');
-			 div.style.display = '';
-	clic33 = clic33 + 1;
-	} else{
-		div = document.getElementById('flotante33');
-			div.style.display = 'none';
-	clic33= 1;
-	}
-		}
-
-	clic34=1;
-	function mostrar34() {
-	if(clic34==1){
-	div = document.getElementById('flotante34');
-			 div.style.display = '';
-	clic34 = clic34 + 1;
-	} else{
-		div = document.getElementById('flotante34');
-			div.style.display = 'none';
-	clic34= 1;
-	}
-		}
-
-	clic35=1;
-	function mostrar35() {
-	if(clic35==1){
-	div = document.getElementById('flotante35');
-			 div.style.display = '';
-	clic35 = clic35 + 1;
-	} else{
-		div = document.getElementById('flotante35');
-			div.style.display = 'none';
-	clic35= 1;
-	}
-		}
-
-	clic36=1;
-	function mostrar36() {
-	if(clic36==1){
-	div = document.getElementById('flotante36');
-			 div.style.display = '';
-	clic36 = clic36 + 1;
-	} else{
-		div = document.getElementById('flotante36');
-			div.style.display = 'none';
-	clic36= 1;
-	}
-		}
-
-	clic37=1;
-	function mostrar37() {
-	if(clic37==1){
-	div = document.getElementById('flotante37');
-			 div.style.display = '';
-	clic37 = clic37 + 1;
-	} else{
-		div = document.getElementById('flotante37');
-			div.style.display = 'none';
-	clic37= 1;
-	}
-		}
-
-	clic38=1;
-	function mostrar38() {
-	if(clic38==1){
-	div = document.getElementById('flotante38');
-			 div.style.display = '';
-	clic38 = clic38 + 1;
-	} else{
-		div = document.getElementById('flotante38');
-			div.style.display = 'none';
-	clic38= 1;
-	}
-		}
-
-	clic39=1;
-	function mostrar39() {
-	if(clic39==1){
-	div = document.getElementById('flotante39');
-			 div.style.display = '';
-	clic39 = clic39 + 1;
-	} else{
-		div = document.getElementById('flotante39');
-			div.style.display = 'none';
-	clic39= 1;
-	}
-		}
-
-	clic40=1;
-	function mostrar40() {
-	if(clic40==1){
-	div = document.getElementById('flotante40');
-			 div.style.display = '';
-	clic40 = clic40 + 1;
-	} else{
-		div = document.getElementById('flotante40');
-			div.style.display = 'none';
-	clic40= 1;
-	}
-		}
-
-	clic41=1;
-	function mostrar41() {
-	if(clic41==1){
-	div = document.getElementById('flotante41');
-			 div.style.display = '';
-	clic41 = clic41 + 1;
-	} else{
-		div = document.getElementById('flotante41');
-			div.style.display = 'none';
-	clic41= 1;
-	}
-		}
-
-	clic42=1;
-	function mostrar42() {
-	if(clic42==1){
-	div = document.getElementById('flotante42');
-			 div.style.display = '';
-	clic42 = clic42 + 1;
-	} else{
-		div = document.getElementById('flotante42');
-			div.style.display = 'none';
-	clic42= 1;
-	}
-		}
-
-	clic43=1;
-	function mostrar43() {
-	if(clic43==1){
-	div = document.getElementById('flotante43');
-			 div.style.display = '';
-	clic43 = clic43 + 1;
-	} else{
-		div = document.getElementById('flotante43');
-			div.style.display = 'none';
-	clic43= 1;
-	}
-		}
-
-	clic44=1;
-	function mostrar44() {
-	if(clic44==1){
-	div = document.getElementById('flotante44');
-			 div.style.display = '';
-	clic44 = clic44 + 1;
-	} else{
-		div = document.getElementById('flotante44');
-			div.style.display = 'none';
-	clic44= 1;
-	}
-		}
-
-	clic45=1;
-	function mostrar45() {
-	if(clic45==1){
-	div = document.getElementById('flotante45');
-			 div.style.display = '';
-	clic45 = clic45 + 1;
-	} else{
-		div = document.getElementById('flotante45');
-			div.style.display = 'none';
-	clic45= 1;
-	}
-		}
-
-	clic46=1;
-	function mostrar46() {
-	if(clic46==1){
-	div = document.getElementById('flotante46');
-			 div.style.display = '';
-	clic46 = clic46 + 1;
-	} else{
-		div = document.getElementById('flotante46');
-			div.style.display = 'none';
-	clic46= 1;
-	}
-		}
-
-	clic47=1;
-	function mostrar47() {
-	if(clic47==1){
-	div = document.getElementById('flotante47');
-			 div.style.display = '';
-	clic47 = clic47 + 1;
-	} else{
-		div = document.getElementById('flotante47');
-			div.style.display = 'none';
-	clic47= 1;
-	}
-		}
-
-	clic48=1;
-	function mostrar48() {
-	if(clic48==1){
-	div = document.getElementById('flotante48');
-			 div.style.display = '';
-	clic48 = clic48 + 1;
-	} else{
-		div = document.getElementById('flotante48');
-			div.style.display = 'none';
-	clic48= 1;
-	}
-		}
-
-	clic49=1;
-	function mostrar49() {
-	if(clic49==1){
-	div = document.getElementById('flotante49');
-			 div.style.display = '';
-	clic49 = clic49 + 1;
-	} else{
-		div = document.getElementById('flotante49');
-			div.style.display = 'none';
-	clic49= 1;
-	}
-		}
-
-	clic50=1;
-	function mostrar50() {
-	if(clic50==1){
-	div = document.getElementById('flotante50');
-			 div.style.display = '';
-	clic50 = clic50 + 1;
-	} else{
-		div = document.getElementById('flotante50');
-			div.style.display = 'none';
-	clic50= 1;
-	}
-		}
-
-	clic51=1;
-	function mostrar51() {
-	if(clic51==1){
-	div = document.getElementById('flotante51');
-			 div.style.display = '';
-	clic51 = clic51 + 1;
-	} else{
-		div = document.getElementById('flotante51');
-			div.style.display = 'none';
-	clic51= 1;
-	}
-		}
-
-	clic52=1;
-	function mostrar52() {
-	if(clic52==1){
-	div = document.getElementById('flotante52');
-			 div.style.display = '';
-	clic52 = clic52 + 1;
-	} else{
-		div = document.getElementById('flotante52');
-			div.style.display = 'none';
-	clic52= 1;
-	}
-		}
-
-	clic53=1;
-	function mostrar53() {
-	if(clic53==1){
-	div = document.getElementById('flotante53');
-			 div.style.display = '';
-	clic53 = clic53 + 1;
-	} else{
-		div = document.getElementById('flotante53');
-			div.style.display = 'none';
-	clic53= 1;
-	}
-		}
-
-	clic54=1;
-	function mostrar54() {
-	if(clic54==1){
-	div = document.getElementById('flotante54');
-			 div.style.display = '';
-	clic54 = clic54 + 1;
-	} else{
-		div = document.getElementById('flotante54');
-			div.style.display = 'none';
-	clic54= 1;
-	}
-		}
-
-	clic55=1;
-	function mostrar55() {
-	if(clic55==1){
-	div = document.getElementById('flotante55');
-			 div.style.display = '';
-	clic55 = clic55 + 1;
-	} else{
-		div = document.getElementById('flotante55');
-			div.style.display = 'none';
-	clic55= 1;
-	}
-		}
-
-	clic56=1;
-	function mostrar56() {
-	if(clic56==1){
-	div = document.getElementById('flotante56');
-			 div.style.display = '';
-	clic56 = clic56 + 1;
-	} else{
-		div = document.getElementById('flotante56');
-			div.style.display = 'none';
-	clic56= 1;
-	}
-		}
-
-	clic57=1;
-	function mostrar57() {
-	if(clic57==1){
-	div = document.getElementById('flotante57');
-			 div.style.display = '';
-	clic57 = clic57 + 1;
-	} else{
-		div = document.getElementById('flotante57');
-			div.style.display = 'none';
-	clic57= 1;
-	}
-		}
-
-	clic58=1;
-	function mostrar58() {
-	if(clic58==1){
-	div = document.getElementById('flotante58');
-			 div.style.display = '';
-	clic58 = clic58 + 1;
-	} else{
-		div = document.getElementById('flotante58');
-			div.style.display = 'none';
-	clic58= 1;
-	}
-		}
-
-	clic59=1;
-	function mostrar59() {
-	if(clic59==1){
-	div = document.getElementById('flotante59');
-			 div.style.display = '';
-	clic59 = clic59 + 1;
-	} else{
-		div = document.getElementById('flotante59');
-			div.style.display = 'none';
-	clic59= 1;
-	}
-		}
-
-	clic60=1;
-	function mostrar60() {
-	if(clic60==1){
-	div = document.getElementById('flotante60');
-			 div.style.display = '';
-	clic60 = clic60 + 1;
-	} else{
-		div = document.getElementById('flotante60');
-			div.style.display = 'none';
-	clic60= 1;
-	}
-		}
-
-	clic61=1;
-	function mostrar61() {
-	if(clic61==1){
-	div = document.getElementById('flotante61');
-			 div.style.display = '';
-	clic61 = clic61 + 1;
-	} else{
-		div = document.getElementById('flotante61');
-			div.style.display = 'none';
-	clic61= 1;
-	}
-		}
-
-	clic62=1;
-	function mostrar62() {
-	if(clic62==1){
-	div = document.getElementById('flotante62');
-			 div.style.display = '';
-	clic62 = clic62 + 1;
-	} else{
-		div = document.getElementById('flotante62');
-			div.style.display = 'none';
-	clic62= 1;
-	}
-		}
-
-	clic63=1;
-	function mostrar63() {
-	if(clic63==1){
-	div = document.getElementById('flotante63');
-			 div.style.display = '';
-	clic63 = clic63 + 1;
-	} else{
-		div = document.getElementById('flotante63');
-			div.style.display = 'none';
-	clic63= 1;
-	}
-		}
-
-	clic64=1;
-	function mostrar64() {
-	if(clic64==1){
-	div = document.getElementById('flotante64');
-			 div.style.display = '';
-	clic64 = clic64 + 1;
-	} else{
-		div = document.getElementById('flotante64');
-			div.style.display = 'none';
-	clic64= 1;
-	}
-		}
-	</script>
+<script type="text/javascript" src="script-transp.js"></script>
 
 
 <!-- font-awesome icons -->
@@ -1357,6 +533,18 @@ td, th {
 												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2017\Aguinaldo_2017.xlsx" target="_blank"> Aguinaldo 2017F</a></li>
 											<br>
 										</div>
+									<li><a href="javascript:mostrar66();">Nóminas 2018 ↓↑</a></li>
+										<div id="flotante66" style="display:none;">
+											<br>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2018\Enero1.xlsx" target="_blank">1a Quincena Enero</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2018\Enero2.xlsx" target="_blank">2a Quincena Enero</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2018\Febrero1.xlsx" target="_blank">1a Quincena Febrero</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2018\Febrero2.xlsx" target="_blank">2a Quincena Febrero</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2018\Marzo1.xlsx" target="_blank">1a Quincena Marzo</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2018\Marzo2.xlsx" target="_blank">2a Quincena Marzo</a></li>
+												<li type="circle"><a href="docs\art-8-fracc-V\g)\NOMINAS 2018\Abril1.xlsx" target="_blank">1a Quincena Abril</a></li>
+											<br>
+										</div>
 								<br>
 							</div>
 						<p>h) <a href="javascript:mostrar47();">El listado de jubilados y pensionados y el monto que reciben. ↓↑</a></p>
@@ -1517,6 +705,7 @@ td, th {
 								<li><a href="docs\art-8-fracc-V\j)\2015.pdf" target="_blank">2015</a></li>
 								<li><a href="docs\art-8-fracc-V\j)\2016.pdf" target="_blank">2016</a></li>
 								<li><a href="docs/art-8-fracc-V/j)/2017.pdf" target="_blank">2017</a></li>
+								<li><a href="docs/art-8-fracc-V/j)/2018.pdf" target="_blank">2018</a></li>
 								<br>
 							</div>
 						<p>k) <a href="docs\art-8-fracc-V\k)\PAGO DE SERVICIOS PROFESIONALES.xlsx" target="_blank">El contrato de prestación de servicios o por honorarios, y el gasto realizado por concepto de pago de asesorías al sujeto obligado, donde se señale nombre de la empresa, institución o individuos, el concepto de cada una de las asesorías, así como el trabajo realizado.</a></p>
@@ -1526,8 +715,16 @@ td, th {
 							<div id="flotante43" style="display:none;">
 							</div>
 						<p>ñ) <a href="docs/art-8-fracc-V/ñ)/Proveedores.xlsx" target="_blank">Los padrones de proveedores o contratistas, de cuando menos los últimos tres años.</a></p>
-						<p>o) La información sobre adjudicaciones directas en materia de adquisiciones, obra pública, proyectos de inversión y prestación de servicios, de cuando menos los últimos tres años.</a></p>
-						<p>p) La información sobre concursos por invitación y licitaciones públicas en materia de adquisiciones, obra pública, proyectos de inversión y prestación de servicios, de cuando menos los últimos tres años.</a></p>
+						<p>o) <a href="docs/art-8-fracc-V/o)/ContratoGradasBuenosAires.pdf">La información sobre adjudicaciones directas en materia de adquisiciones, obra pública, proyectos de inversión y prestación de servicios, de cuando menos los últimos tres años.</a></p>
+						<p>p) <a href="javascript:mostrar65();"> La información sobre concursos por invitación y licitaciones públicas en materia de adquisiciones, obra pública, proyectos de inversión y prestación de servicios, de cuando menos los últimos tres años. ↓↑</a></p>
+							<div id="flotante65" style="display: none;">
+								<br>
+								<li><a href="docs/art-8-fracc-V/p)/InvitacionDelConcurso.pdf" target="_blank">Invitación</a></li>
+								<li><a href="docs/art-8-fracc-V/p)/BasesDelConcurso.pdf" target="_blank">Bases</a></li>
+								<li><a href="docs/art-8-fracc-V/p)/FalloDelConcurso.pdf" target="_blank">Fallo</a></li>
+								<li><a href="docs/art-8-fracc-V/p)/ContratoPlazaAmistad.pdf" target="_blank">Contrato Plaza de la Amistad</a></li>
+								<br>
+							</div>
 						<p>q) El nombre, denominación o razón social y clave del Registro Federal de Contribuyentes de quienes se les hubiera cancelado o condonado algún crédito fiscal, los montos respectivos, así como la información estadística sobre las exenciones previstas en las disposiciones fiscales.</a></p>
 						<p>r) Los inventarios de bienes muebles e inmuebles del sujeto obligado, de cuando menos los últimos tres años, donde se señale cuando menos la descripción, el valor, el régimen jurídico, y el uso o afectación del bien.</a></p>
 						<p>s) <a href="javascript:mostrar17();">Los gastos de representación, viáticos y viajes oficiales, su costo, itinerario, agenda y resultados. ↓↑</a></p>
@@ -1539,6 +736,7 @@ td, th {
 								<li><a href="docs\art-8-fracc-V\s)\2015.pdf" target="_blank">2015</a></li>
 								<li><a href="docs\art-8-fracc-V\s)\2016.pdf" target="_blank">2016</a></li>
 								<li><a href="docs\art-8-fracc-V\s)\2017.pdf" target="_blank">2017</a></li>
+								<li><a href="docs\art-8-fracc-V\s)\2018.pdf" target="_blank">2018</a></li>
 								<br>
 							</div>
 						<p>t) <a href="javascript:mostrar18();">Las concesiones, licencias, permisos o autorizaciones otorgadas de los últimos tres años. ↓↑</a></p>
@@ -1591,7 +789,7 @@ td, th {
 								</div>
 							<br>
 							</div>
-						<p>w) El estado de la deuda pública del sujeto obligado, donde se señale cuando menos responsable de la autorización, fecha de contratación, monto del crédito, tasa de interés, monto total amortizable, plazo de vencimiento, institución crediticia, objeto de aplicación y avance de aplicación de cada deuda contratada.</a></p>
+						<p>w) <a href="docs/art-8-fracc-V/w)/DeudaPublica.pdf" target="_blank">El estado de la deuda pública del sujeto obligado, donde se señale cuando menos responsable de la autorización, fecha de contratación, monto del crédito, tasa de interés, monto total amortizable, plazo de vencimiento, institución crediticia, objeto de aplicación y avance de aplicación de cada deuda contratada.</a></p>
 						<p>x) <a href="javascript:mostrar36();">Los estados de cuenta bancarios que expiden las instituciones financieras, número de cuentas bancarias, estados financieros, cuentas de fideicomisos e inversiones, de cuando menos los últimos seis meses. ↓↑</a></p>
 							<div id="flotante36" style="display:none;">
 								<br>
@@ -1651,6 +849,7 @@ td, th {
 								<li><a href="docs\art-8-fracc-VI\c)\obras 2013.xlsx" target="_blank"> Obras 2013</a></li>
 								<li><a href="docs\art-8-fracc-VI\c)\obras 2014.xlsx" target="_blank"> Obras 2014</a></li>
 								<li><a href="docs\art-8-fracc-VI\c)\obras 2015.xlsx" target="_blank"> Obras 2015</a></li>
+								<li><a href="docs\art-8-fracc-VI\c)\obras 2015b.xlsx" target="_blank"> Obras 2015 B</a></li>
 								<li><a href="docs\art-8-fracc-VI\c)\obras 2016.xlsx" target="_blank"> Obras 2016</a></li>
 								<li><a href="docs\art-8-fracc-VI\c)\obras 2017.xlsx" target="_blank"> Obras 2017</a></li>
 								<br>
@@ -3072,7 +2271,7 @@ td, th {
 						<div id="flotante28" style="display: none;">
 							<div class="panel-body">
 								<p>I) La obligatoria para todos los sujetos obligados.</a></p>
-								<p>II) <a href="docs\art 15 fracc II.pdf" target="_blank">La integración del Ayuntamiento , las comisiones edilicias y demás órganos que establezca su organigrama.</a></p>
+								<p>II) <a href="docs/art-15/fracc II.pdf" target="_blank">La integración del Ayuntamiento , las comisiones edilicias y demás órganos que establezca su organigrama.</a></p>
 								<p>III) Los bandos de policía y gobierno, reglamentos , decretos, acuerdos, circulares y demás disposiciones jurídicas expedidas por el ayuntamiento respectivo.</a></p>
 								<p>IV) Las iniciativas presentadas y las exposiciones de motivos de los reglamentos vigentes en el municipio.</a></p>
 								<p>V) Los instrumentos de planeación del desarrollo del municipio y sus modificaciones, de cuando menos los últimos tres años.</a></p>
@@ -3087,12 +2286,13 @@ td, th {
 												<br>
 												<table>
 													<tr>
-														<th colspan="7"><center>Sesión del Pleno del Ayuntamiento 2015</center></th>
+														<th colspan="8"><center>Sesión del Pleno del Ayuntamiento 2015</center></th>
 													</tr>
 													<tr>
 														<th>Número</th>
 														<th>Sesión Ayuntamiento</th>
 														<th>Fecha</th>
+														<th>Lista de Asistencia</th>
 														<th>Orden del día</th>
 														<th>Acta</th>
 														<th>Versión estenográfíca</th>
@@ -3102,6 +2302,7 @@ td, th {
 														<td>1</td>
 														<td>Ordinaria</td>
 														<td>1 - Octubre - 2015</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_1.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD1.pdf" target="_blank">OD1</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S1.pdf" target="_blank">S1</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w1.docx">W1</a></td>
@@ -3111,6 +2312,7 @@ td, th {
 														<td>2</td>
 														<td>Ordinaria</td>
 														<td>26 - Octubre - 2015</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_2.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD2.pdf" target="_blank">OD2</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S2.pdf" target="_blank">S2</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w2.docx">W2</a></td>
@@ -3120,6 +2322,7 @@ td, th {
 														<td>3</td>
 														<td>Ordinaria</td>
 														<td>2 - Noviembre - 2015</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_3.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD3.pdf" target="_blank">OD3</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S3.pdf" target="_blank">S3</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w3.docx">W3</a></td>
@@ -3129,6 +2332,7 @@ td, th {
 														<td>4</td>
 														<td>Ordinaria</td>
 														<td>14 - Diciembre - 2015</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_4.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD4.pdf" target="_blank">OD4</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S4.pdf" target="_blank">S4</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w4.docx">W4</a></td>
@@ -3138,6 +2342,7 @@ td, th {
 														<td>5</td>
 														<td>Ordinaria</td>
 														<td>18 - Diciembre - 2015</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_5.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD5.pdf" target="_blank">OD5</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S5.pdf" target="_blank">S5</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w5.docx">W5</a></td>
@@ -3151,12 +2356,13 @@ td, th {
 												<br>
 												<table>
 													<tr>
-														<th colspan="7"><center>Sesión del Pleno del Ayuntamiento 2016</center></th>
+														<th colspan="8"><center>Sesión del Pleno del Ayuntamiento 2016</center></th>
 													</tr>
 													<tr>
 														<th>Número</th>
 														<th>Sesión Ayuntamiento</th>
 														<th>Fecha</th>
+														<th>Lista de Asistencia</th>
 														<th>Orden del día</th>
 														<th>Acta</th>
 														<th>Versión estenográfíca</th>
@@ -3166,6 +2372,7 @@ td, th {
 														<td>6</td>
 														<td>Ordinaria</td>
 														<td>22 - Enero - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_6.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD6.pdf" target="_blank">OD6</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S6.pdf" target="_blank">S6</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w6.docx">W6</a></td>
@@ -3175,6 +2382,7 @@ td, th {
 														<td>7</td>
 														<td>Ordinaria</td>
 														<td>26 - Febrero - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_7.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD7.pdf" target="_blank">OD7</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S7.pdf" target="_blank">S7</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w7.docx">W7</a></td>
@@ -3184,6 +2392,7 @@ td, th {
 														<td>8</td>
 														<td>Ordinaria</td>
 														<td>12 - Marzo - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_8.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD8.pdf" target="_blank">OD8</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S8.pdf" target="_blank">S8</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w8.docx">W8</a></td>
@@ -3193,6 +2402,7 @@ td, th {
 														<td>9</td>
 														<td>Extraordinaria</td>
 														<td>16 - Marzo - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_9.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD9.pdf" target="_blank">OD9</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S9.pdf" target="_blank">S9</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w9.docx">W9</a></td>
@@ -3202,6 +2412,7 @@ td, th {
 														<td>10</td>
 														<td>Ordinaria</td>
 														<td>7 - Abril - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_10.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD10.pdf" target="_blank">OD10</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S10.pdf" target="_blank">S10</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w10.docx">W10</a></td>
@@ -3211,6 +2422,7 @@ td, th {
 														<td>11</td>
 														<td>Ordinaria</td>
 														<td>13 - Abril - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_11.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD11.pdf" target="_blank">OD11</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S11.pdf" target="_blank">S11</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w11.docx">W11</a></td>
@@ -3220,6 +2432,7 @@ td, th {
 														<td>12</td>
 														<td>Ordinaria</td>
 														<td>11 - Mayo - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_12.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD12.pdf" target="_blank">OD12</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S12.pdf" target="_blank">S12</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w12.docx">W12</a></td>
@@ -3229,6 +2442,7 @@ td, th {
 														<td>13</td>
 														<td>Ordinaria</td>
 														<td>30 - Mayo - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_13.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD13.pdf" target="_blank">OD13</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S13.pdf" target="_blank">S13</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w13.docx">W13</a></td>
@@ -3238,6 +2452,7 @@ td, th {
 														<td>14</td>
 														<td>Extraordinaria</td>
 														<td>11 - Junio - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_14.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD14.pdf" target="_blank">OD14</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S14.pdf" target="_blank">S14</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w14.docx">W14</a></td>
@@ -3247,6 +2462,7 @@ td, th {
 														<td>15</td>
 														<td>Ordinaria</td>
 														<td>13 - Junio - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_15.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD15.pdf" target="_blank">OD15</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S15.pdf" target="_blank">S15</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w15.docx">W15</a></td>
@@ -3256,6 +2472,7 @@ td, th {
 														<td>16</td>
 														<td>Ordinaria</td>
 														<td>6- Julio - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_16.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD16.pdf" target="_blank">OD16</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S16.pdf" target="_blank">S16</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w16.docx">W16</a></td>
@@ -3265,8 +2482,9 @@ td, th {
 														<td>17</td>
 														<td>Extraordinaria</td>
 														<td>22 - Julio - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_17.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD17.pdf" target="_blank">OD17</a><br>
-																   <a href="docs\art-8-fracc-VI\j)/od/OD17b.pdf" target="_blank">OD17b</a></td>
+															<a href="docs\art-8-fracc-VI\j)/od/OD17b.pdf" target="_blank">OD17b</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S17.pdf" target="_blank">S17</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w17.docx">W17</a></td>
 														<td><a href="https://www.youtube.com/watch?v=R-AOPeOaMSA" target="_blank">Youtube</a></td>
@@ -3275,6 +2493,7 @@ td, th {
 														<td>18</td>
 														<td>Extraordinaria</td>
 														<td>25 - Julio - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_18.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD18.pdf" target="_blank">OD18</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S18.pdf" target="_blank">S18</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w18.docx">W18</a></td>
@@ -3284,6 +2503,7 @@ td, th {
 														<td>19</td>
 														<td>Extraordinaria</td>
 														<td>12 - Agosto - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_19.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD19.pdf" target="_blank">OD19</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S19.pdf" target="_blank">S19</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w19.docx">W19</a></td>
@@ -3293,6 +2513,7 @@ td, th {
 														<td>20</td>
 														<td>Ordinaria</td>
 														<td>24 - Agosto - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_20.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD20.pdf" target="_blank">OD20</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S20.pdf" target="_blank">S20</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w20.docx">W20</a></td>
@@ -3302,6 +2523,7 @@ td, th {
 														<td>21</td>
 														<td>Extraordinaria</td>
 														<td>26 - Agosto - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_21.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD21.pdf" target="_blank">OD21</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S21.pdf" target="_blank">S21</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w21.docx">W21</a></td>
@@ -3311,6 +2533,7 @@ td, th {
 														<td>22</td>
 														<td>Ordinaria</td>
 														<td>5 - Septiembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_22.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD22.pdf" target="_blank">OD22</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S22.pdf" target="_blank">S22</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w22.docx">W22</a></td>
@@ -3320,6 +2543,7 @@ td, th {
 														<td>23</td>
 														<td>Ordinaria</td>
 														<td>8 - Septiembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_23.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD23.pdf" target="_blank">OD23</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S23.pdf" target="_blank">S23</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w23.docx">W23</a></td>
@@ -3329,6 +2553,7 @@ td, th {
 														<td>24</td>
 														<td>Solemne</td>
 														<td>11 - Septiembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_24.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD24.pdf" target="_blank">OD24</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S24.pdf" target="_blank">S24</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w24.docx">W24</a></td>
@@ -3338,6 +2563,7 @@ td, th {
 														<td>25</td>
 														<td>Solemne</td>
 														<td>15 - Septiembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_25.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD25.pdf" target="_blank">OD25</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S25.pdf" target="_blank">S25</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w25.docx">W25</a></td>
@@ -3347,6 +2573,7 @@ td, th {
 														<td>26</td>
 														<td>Extraordinaria</td>
 														<td>21 - Septiembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_26.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD26.pdf" target="_blank">OD26</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S26.pdf" target="_blank">S26</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w26.docx">W26</a></td>
@@ -3356,6 +2583,7 @@ td, th {
 														<td>27</td>
 														<td>Ordinaria</td>
 														<td>27 - Septiembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_27.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD27.pdf" target="_blank">OD27</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S27.pdf" target="_blank">S27</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w27.docx">W27</a></td>
@@ -3365,6 +2593,7 @@ td, th {
 														<td>28</td>
 														<td>Ordinaria</td>
 														<td>19 - Octubre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_28.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD28.pdf" target="_blank">OD28</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S28.pdf" target="_blank">S28</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w28.docx">W28</a></td>
@@ -3374,6 +2603,7 @@ td, th {
 														<td>29</td>
 														<td>Ordinaria</td>
 														<td>31 - Octubre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_29.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD29.pdf" target="_blank">OD29</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S29.pdf" target="_blank">S29</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w29.docx">W29</a></td>
@@ -3383,6 +2613,7 @@ td, th {
 														<td>30</td>
 														<td>Ordinaria</td>
 														<td>18 - Noviembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_30.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD30.pdf" target="_blank">OD30</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S30.pdf" target="_blank">S30</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w30.docx">W30</a></td>
@@ -3392,6 +2623,7 @@ td, th {
 														<td>31</td>
 														<td>Extraordinaria</td>
 														<td>23 - Noviembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_31.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD31.pdf" target="_blank">OD31</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S31.pdf" target="_blank">S31</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w31.docx">W31</a></td>
@@ -3401,6 +2633,7 @@ td, th {
 														<td>32</td>
 														<td>Extraordinaria</td>
 														<td>24 - Noviembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_32.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD32.pdf" target="_blank">OD32</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S32.pdf" target="_blank">S32</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w32.docx">W32</a></td>
@@ -3410,6 +2643,7 @@ td, th {
 														<td>33</td>
 														<td>Ordinaria</td>
 														<td>6 - Diciembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_33.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD33.pdf" target="_blank">OD33</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S33.pdf" target="_blank">S33</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w33.docx">W33</a></td>
@@ -3419,6 +2653,7 @@ td, th {
 														<td>34</td>
 														<td>Extraordinaria</td>
 														<td>14 - Diciembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_34.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD34.pdf" target="_blank">OD34</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S34.pdf" target="_blank">S34</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w34.docx">W34</a></td>
@@ -3428,6 +2663,7 @@ td, th {
 														<td>35</td>
 														<td>Extraordinaria</td>
 														<td>19 - Diciembre - 2016</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_35.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD35.pdf" target="_blank">OD35</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S35.pdf" target="_blank">S35</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w35.docx">W35</a></td>
@@ -3441,12 +2677,13 @@ td, th {
 												<br>
 												<table>
 													<tr>
-														<th colspan="7"><center>Sesión del Pleno del Ayuntamiento 2017</center></th>
+														<th colspan="8"><center>Sesión del Pleno del Ayuntamiento 2017</center></th>
 													</tr>
 													<tr>
 														<th>Número</th>
 														<th>Sesión Ayuntamiento</th>
 														<th>Fecha</th>
+														<th>Lista de Asistencia</th>
 														<th>Orden del día</th>
 														<th>Acta</th>
 														<th>Versión estenográfíca</th>
@@ -3456,6 +2693,7 @@ td, th {
 														<td>36</td>
 														<td>Ordinaria</td>
 														<td>5 - Enero - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_36.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD36.pdf" target="_blank">OD36</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S36.pdf" target="_blank">S36</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w36.docx">W36</a></td>
@@ -3465,6 +2703,7 @@ td, th {
 														<td>37</td>
 														<td>Ordinaria</td>
 														<td>5 - Febrero - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_37.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD37.pdf" target="_blank">OD37</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S37.pdf" target="_blank">S37</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w37.docx">W37</a></td>
@@ -3474,6 +2713,7 @@ td, th {
 														<td>38</td>
 														<td>Extraordinaria</td>
 														<td>28 - Febrero - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_38.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD38.pdf" target="_blank">OD38</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S38.pdf" target="_blank">S38</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w38.docx">W38</a></td>
@@ -3483,6 +2723,7 @@ td, th {
 														<td>39</td>
 														<td>Extraordinaria</td>
 														<td>1 - Marzo - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_39.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD39.pdf" target="_blank">OD39</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S39.pdf" target="_blank">S39</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w39.docx">W39</a></td>
@@ -3492,6 +2733,7 @@ td, th {
 														<td>40</td>
 														<td>Ordinaria</td>
 														<td>3 - marzo - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_40.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD40.pdf" target="_blank">OD40</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S40.pdf" target="_blank">S40</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w40.docx">W40</a></td>
@@ -3501,6 +2743,7 @@ td, th {
 														<td>41</td>
 														<td>Extraordinaria</td>
 														<td>10 - Marzo - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_41.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD41.pdf" target="_blank">OD41</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S41.pdf" target="_blank">S41</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w41.docx">W41</a></td>
@@ -3510,6 +2753,7 @@ td, th {
 														<td>42</td>
 														<td>Extraordinaria</td>
 														<td>11 - Marzo - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_42.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD42.pdf" target="_blank">OD42</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S42.pdf" target="_blank">S42</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w42.docx">W42</a></td>
@@ -3519,6 +2763,7 @@ td, th {
 														<td>43</td>
 														<td>Extraordinaria</td>
 														<td>12 - Marzo - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_43.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD43.pdf" target="_blank">OD43</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S43.pdf" target="_blank">S43</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w43.docx">W43</a></td>
@@ -3528,6 +2773,7 @@ td, th {
 														<td>44</td>
 														<td>Ordinaria</td>
 														<td>22 - Marzo - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_44.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD44.pdf" target="_blank">OD44</a></td>
 														<td>S44</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w44.docx">W44</a></td>
@@ -3537,6 +2783,7 @@ td, th {
 														<td>45</td>
 														<td>Ordinaria</td>
 														<td>6 - Abril - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_45.pdf" target="_blank">Asistencia</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/od/OD45.pdf" target="_blank">OD45</a></td>
 														<td>S45</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w45.docx">W45</a></td>
@@ -3546,6 +2793,7 @@ td, th {
 														<td>46</td>
 														<td>Ordinaria</td>
 														<td>27 - Abril - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_46.pdf" target="_blank">Asistencia</a></td>
 														<td>OD46</a></td>
 														<td>S46</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w46.docx">W46</a></td>
@@ -3555,6 +2803,7 @@ td, th {
 														<td>47</td>
 														<td>Ordinaria</td>
 														<td>28 - Abril - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_47.pdf" target="_blank">Asistencia</a></td>
 														<td>OD47</a></td>
 														<td>S47</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w47.docx">W47</a></td>
@@ -3564,6 +2813,7 @@ td, th {
 														<td>48</td>
 														<td>Ordinaria</td>
 														<td>29 - Abril - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_48.pdf" target="_blank">Asistencia</a></td>
 														<td>OD48</a></td>
 														<td>S48</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w48.docx">W48</a></td>
@@ -3573,6 +2823,7 @@ td, th {
 														<td>49</td>
 														<td>Ordinaria</td>
 														<td>7 - Mayo - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_49.pdf" target="_blank">Asistencia</a></td>
 														<td>OD49</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S49.pdf" target="_blank">S49</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w49.docx">W49</a></td>
@@ -3582,6 +2833,7 @@ td, th {
 														<td>50</td>
 														<td>Extraordinaria</td>
 														<td>11 - Mayo - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_50.pdf" target="_blank">Asistencia</a></td>
 														<td>OD50</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S50.pdf" target="_blank">S50</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w50.docx">W50</a></td>
@@ -3591,6 +2843,7 @@ td, th {
 														<td>51</td>
 														<td>Ordinaria</td>
 														<td>18 - Mayo - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_51.pdf" target="_blank">Asistencia</a></td>
 														<td>OD51</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S51.pdf" target="_blank">S51</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w51.docx">W51</a></td>
@@ -3600,6 +2853,7 @@ td, th {
 														<td>52</td>
 														<td>Extraordinaria</td>
 														<td>24 - Mayo - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_52.pdf" target="_blank">Asistencia</a></td>
 														<td>OD52</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S52.pdf" target="_blank">S52</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w52.docx">W52</a></td>
@@ -3609,6 +2863,7 @@ td, th {
 														<td>53</td>
 														<td>Extraordinaria</td>
 														<td>30 - Mayo - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_53.pdf" target="_blank">Asistencia</a></td>
 														<td>OD53</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S53.pdf" target="_blank">S53</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w53.docx">W53</a></td>
@@ -3618,6 +2873,7 @@ td, th {
 														<td>54</td>
 														<td>Extraordinaria</td>
 														<td>1 - Junio - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_54.pdf" target="_blank">Asistencia</a></td>
 														<td>OD54</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S54.pdf" target="_blank">S54</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w54.docx">W54</a></td>
@@ -3627,6 +2883,7 @@ td, th {
 														<td>55</td>
 														<td>Ordinaria</td>
 														<td>19 - Junio - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_55.pdf" target="_blank">Asistencia</a></td>
 														<td>OD55</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S55.pdf" target="_blank">S55</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w55.docx">W55</a></td>
@@ -3636,6 +2893,7 @@ td, th {
 														<td>56</td>
 														<td>Ordinaria</td>
 														<td>2 - Julio - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_56.pdf" target="_blank">Asistencia</a></td>
 														<td>OD56</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S56.pdf" target="_blank">S56</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w56.docx">W56</a></td>
@@ -3645,6 +2903,7 @@ td, th {
 														<td>57</td>
 														<td>Extraordinaria</td>
 														<td>15 - Julio - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_57.pdf" target="_blank">Asistencia</a></td>
 														<td>OD57</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S57.pdf" target="_blank">S57</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w57.docx">W57</a></td>
@@ -3654,6 +2913,7 @@ td, th {
 														<td>58</td>
 														<td>Ordinaria</td>
 														<td>25 - Julio - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_58.pdf" target="_blank">Asistencia</a></td>
 														<td>OD58</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S58.pdf" target="_blank">S58</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w58.docx">W58</a></td>
@@ -3663,6 +2923,7 @@ td, th {
 														<td>59</td>
 														<td>Extraordinaria</td>
 														<td>2 - Agosto - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_59.pdf" target="_blank">Asistencia</a></td>
 														<td>OD59</a></td>
 														<td>S59</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w59.docx">W59</a></td>
@@ -3672,6 +2933,7 @@ td, th {
 														<td>60</td>
 														<td>Ordinaria</td>
 														<td>4 - Agosto - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_60.pdf" target="_blank">Asistencia</a></td>
 														<td>OD60</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S60.pdf" target="_blank">S60</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w60.doc">W60</a></td>
@@ -3681,6 +2943,7 @@ td, th {
 														<td>61</td>
 														<td>Extraordinaria</td>
 														<td>15 - Agosto - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_61.pdf" target="_blank">Asistencia</a></td>
 														<td>OD61</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/acta/S61.pdf" target="_blank">S61</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w61.docx">W61</a></td>
@@ -3690,6 +2953,7 @@ td, th {
 														<td>62</td>
 														<td>Ordinaria</td>
 														<td>28  - Agosto - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_62.pdf" target="_blank">Asistencia</a></td>
 														<td>OD62</a></td>
 														<td>S62</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w62.docx">W62</a></td>
@@ -3699,6 +2963,7 @@ td, th {
 														<td>63</td>
 														<td>Ordinaria</td>
 														<td>5 - Septiembre - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_63.pdf" target="_blank">Asistencia</a></td>
 														<td>OD63</a></td>
 														<td>S63</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w63.docx">W63</a></td>
@@ -3708,6 +2973,7 @@ td, th {
 														<td>64</td>
 														<td>Extraordinaria</td>
 														<td>8 - Septiembre - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_64.pdf" target="_blank">Asistencia</a></td>
 														<td>OD64</a></td>
 														<td>S64</a></td>
 														<td><a href="docs\art-8-fracc-VI\j)/ve/w64.docx">W64</a></td>
@@ -3717,6 +2983,7 @@ td, th {
 														<td>65</td>
 														<td>Solemne</td>
 														<td>10 - Septiembre - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_65.pdf" target="_blank">Asistencia</a></td>
 														<td>OD65</a></td>
 														<td>S65</a></td>
 														<td>W65</a></td>
@@ -3726,6 +2993,7 @@ td, th {
 														<td>66</td>
 														<td>Solemne</td>
 														<td>15 - Septiembre - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_66.pdf" target="_blank">Asistencia</a></td>
 														<td>OD66</a></td>
 														<td>S66</a></td>
 														<td>W66</a></td>
@@ -3735,6 +3003,7 @@ td, th {
 														<td>67</td>
 														<td>Extraordinaria</td>
 														<td>27 - Septiembre - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_67.pdf" target="_blank">Asistencia</a></td>
 														<td>OD67</a></td>
 														<td>S67</a></td>
 														<td>W67</a></td>
@@ -3744,6 +3013,7 @@ td, th {
 														<td>68</td>
 														<td>Ordinaria</td>
 														<td>5 - Octubre - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_68.pdf" target="_blank">Asistencia</a></td>
 														<td>OD68</a></td>
 														<td>S68</a></td>
 														<td>W68</a></td>
@@ -3753,6 +3023,7 @@ td, th {
 														<td>69</td>
 														<td>Extraordinaria</td>
 														<td>13 - Octube - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_69.pdf" target="_blank">Asistencia</a></td>
 														<td>OD69</a></td>
 														<td>S69</a></td>
 														<td>W69</a></td>
@@ -3762,6 +3033,7 @@ td, th {
 														<td>70</td>
 														<td>Extraordinaria</td>
 														<td>14 - Noviembre - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_70.pdf" target="_blank">Asistencia</a></td>
 														<td>OD70</a></td>
 														<td>S70</a></td>
 														<td>W70</a></td>
@@ -3771,6 +3043,7 @@ td, th {
 														<td>71</td>
 														<td>Extraordinaria</td>
 														<td>28 - Noviembre - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_71.pdf" target="_blank">Asistencia</a></td>
 														<td>OD71</a></td>
 														<td>S71</a></td>
 														<td>W71</a></td>
@@ -3780,6 +3053,7 @@ td, th {
 														<td>72</td>
 														<td>Extraordinaria</td>
 														<td>14 - Diciembre - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_72.pdf" target="_blank">Asistencia</a></td>
 														<td>OD72</a></td>
 														<td>S72</a></td>
 														<td>W72</a></td>
@@ -3789,10 +3063,71 @@ td, th {
 														<td>73</td>
 														<td>Ordinaria</td>
 														<td>15 - Diciembre - 2017</td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_73.pdf" target="_blank">Asistencia</a></td>
 														<td>OD73</a></td>
 														<td>S73</a></td>
 														<td>W73</a></td>
 														<td>Youtube</a></td>
+													</tr>
+												</table>
+												<br>
+											</div>
+										<li><a href="javascript:mostrar71();">2018 ↓↑</a></li>
+											<div id="flotante71" style="display: none;">
+												<br>
+												<table>
+													<tr>
+														<th colspan="8"><center>Sesión del Pleno del Ayuntamiento 2018</center></th>
+													</tr>
+													<tr>
+														<th>Número</th>
+														<th>Sesión Ayuntamiento</th>
+														<th>Fecha</th>
+														<th>Lista de Asistencia</th>
+														<th>Orden del día</th>
+														<th>Acta</th>
+														<th>Versión estenográfíca</th>
+														<th>Audio y video</th>
+													</tr>
+													<tr>
+														<td>74</td>
+														<td></td>
+														<td></td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_74.pdf" target="_blank">Asistencia</a></td>
+														<td>OD74</a></td>
+														<td>S74</a></td>
+														<td>W74</a></td>
+														<td>YouTube</a></td>
+													</tr>
+													<tr>
+														<td>75</td>
+														<td></td>
+														<td></td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_75.pdf" target="_blank">Asistencia</a></td>
+														<td>OD75</a></td>
+														<td>S75</a></td>
+														<td>W75</a></td>
+														<td>YouTube</a></td>
+													</tr>
+													<tr>
+														<td>76</td>
+														<td></td>
+														<td></td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_76.pdf" target="_blank">Asistencia</a></td>
+														<td>OD76</a></td>
+														<td>S76</a></td>
+														<td>W76</a></td>
+														<td>YouTube</a></td>
+													</tr>
+													<tr>
+														<td>77</td>
+														<td></td>
+														<td></td>
+														<td><a href="docs/art-15/fraccIX/asistencia/15-17/LISTAS DE ASISTENCIA 1-77_77.pdf" target="_blank">Asistencia</a></td>
+														<td>OD77</a></td>
+														<td>S77</a></td>
+														<td>W77</a></td>
+														<td>YouTube</a></td>
 													</tr>
 												</table>
 												<br>
@@ -3809,7 +3144,33 @@ td, th {
 								<p>XVII) El registro de las asociaciones de vecinos en el municipio, con indicación de la fecha de creación, nombre de las mismas, delimitación territorial que representan y datos generales de los miembros de sus directivas, así como de las uniones o federaciones en que se agrupen.</a></p>
 								<p>XVIII) El registro público de bienes del patrimonio municipal.</a></p>
 								<p>XIX) La relación del personal y los inventarios de bienes afectos a cada uno de los servicios públicos municipales, con excepción del servicio de seguridad pública y policía preventiva.</a></p>
-								<p>XX) La relación del personal y los inventarios de bienes afectos a cada uno de los servicios públicos municipales, con excepción del servicio de seguridad pública y policía preventiva.</a></p>
+								<p>XX) <a href="javascript:mostrar67();">La relación del personal y los inventarios de bienes afectos a cada uno de los servicios públicos municipales, con excepción del servicio de seguridad pública y policía preventiva. ↓↑</a></p>
+									<div id="flotante67" style="display: none;">
+										<br>
+										<li><a href="docs/art-15/fracc XX.pdf">Fracc XX</a></li>
+										<li><a href="javascript:mostrar68();">c) ↓↑</a></li>
+											<div id="flotante68" style="display: none;">
+												<br>
+												<li><a href="docs/art-15/fraccXX/c)/mapa.pdf">Mapa</a></li>
+												<li><a href="docs/art-15/fraccXX/c)/mapa2.pdf">Mapa 2</a></li>
+												<br>
+											</div>
+										<li><a href="javascript:mostrar69();">d) ↓↑</a></li>
+											<div id="flotante69" style="display: none;">
+												<br>
+												<li><a href="docs/art-15/fraccXX/d)/mapa.pdf">Mapa</a></li>
+												<li><a href="docs/art-15/fraccXX/d)/mapa2.pdf">Mapa 2</a></li>
+												<br>
+											</div>
+										<li><a href="javascript:mostrar70();">e) ↓↑</a></li>
+											<div id="flotante70" style="display: none;">
+												<br>
+												<li><a href="docs/art-15/fraccXX/e)/mapa.pdf">Mapa</a></li>
+												<li><a href="docs/art-15/fraccXX/e)/mapa2.pdf">Mapa 2</a></li>
+												<br>
+											</div>
+										<br>
+									</div>
 								<p>XXI) La integración, las actas de las reuniones y los acuerdos del Consejo Municipal de Desarrollo Urbano.</a></p>
 								<p>XXII) Las autorizaciones de nuevos fraccionamientos y los cambios de uso de suelo junto con las consultas públicas realizadas con los colonos y la integración del expediente respectivo, en los términos del Código Urbano para el Estado de Jalisco.</a></p>
 								<p>XXIII) Los indicadores de evaluación del desempeño.</a></p>
